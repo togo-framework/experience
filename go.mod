@@ -1,4 +1,4 @@
-module github.com/fadymondy/experience
+module github.com/togo-framework/experience
 
 go 1.26.4
 

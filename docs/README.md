@@ -2,13 +2,13 @@
 
 Experience timeline resource + a CV view.
 
-- **Source:** https://github.com/fadymondy/experience
+- **Source:** https://github.com/togo-framework/experience
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/experience
+togo install togo-framework/experience
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
